@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isaiah2004/Docker-workshop-karunya/issues"
   },
-  "homepage": "https://github.com/isaiah2004/Docker-workshop-karunya#readme"
+  "homepage": "https://github.com/isaiah2004/Docker-workshop-karunya#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
